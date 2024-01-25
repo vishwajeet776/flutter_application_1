@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982968349016",
+    "project_id": "basicapp-e55ba",
+    "storage_bucket": "basicapp-e55ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982968349016:android:a4c3c05c6a332164e4752d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiNJ8HhZQb-SZ_1jrPoaEhTmqVVHvZ4HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
